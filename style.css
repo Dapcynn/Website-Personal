@@ -237,7 +237,7 @@
     
     /* Start Contact Section */
     .contact-container {
-        max-width: 35rem;
+        max-width: 25rem;
         border: 1px solid var(--color-dark-variant);
         padding: 14px;
         border-radius: 50px;
